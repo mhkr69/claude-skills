@@ -991,6 +991,26 @@
       "category": "productivity"
     },
     {
+      "name": "andreessen",
+      "source": "./productivity/andreessen",
+      "description": "Marc Andreessen-mode decision and productivity skill. Market-first operator that pressure-tests ventures/ideas/features/bets (market > team > product; product/market fit is the only milestone; bias to build) and runs the 3x5-card + Anti-Todo routine. Fixed anti-sycophancy operating prompt: counterargument first, no disclaimers, explicit confidence levels, no capitulation. Issues hard verdicts backed by deterministic stdlib tools.",
+      "version": "2.8.3",
+      "author": {
+        "name": "Alireza Rezvani"
+      },
+      "keywords": [
+        "andreessen",
+        "pmarca",
+        "productivity",
+        "product-market-fit",
+        "market-first",
+        "anti-sycophancy",
+        "decision-making",
+        "anti-todo"
+      ],
+      "category": "productivity"
+    },
+    {
       "name": "landing",
       "source": "./marketing/landing",
       "description": "Single-file HTML landing-page generator with 4 design styles, brand palette validation, GSAP animation patterns, kebab-slug URL hygiene. Path-B from megaprompt 04.",
