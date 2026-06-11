@@ -78,8 +78,7 @@ Key items before publishing:
 - Prefer outbound host allowlists over open proxies
 - Use additive-only changes; never rename tool names in-place
 
-Full auth/safety, versioning, quality-gate, testing, deployment, and security
-guidance: [references/production-hardening-guide.md](references/production-hardening-guide.md).
+Full hardening guidance: [references/production-hardening-guide.md](references/production-hardening-guide.md).
 
 ## Script Interfaces
 
