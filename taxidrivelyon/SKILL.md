@@ -69,3 +69,24 @@ Pas de CI/CD. Après modification, **lister explicitement les fichiers à upload
 - Ne jamais casser le formulaire de réservation : c'est le seul canal de conversion.
 - Vérifier la cohérence du numéro public `07 69 19 93 83` après chaque modif de texte.
 - Toujours rappeler à l'utilisateur d'uploader les fichiers modifiés sur Ionos (il oublie souvent et teste l'ancienne version en cache → conseiller `Ctrl+Maj+R`).
+
+## Skills compagnons (croissance & marketing TDL)
+
+Pour faire grandir le business TDL, t'appuyer sur ces skills déjà présents dans ce repo (`marketing-skill/skills/`). Les charger selon le besoin exprimé :
+
+| Skill | Cas d'usage Taxi Drive Lyon |
+|-------|------------------------------|
+| `paid-ads` | Campagnes **Google Ads** (le compte conversion est `AW-18226197994`). Structurer les groupes « taxi lyon aéroport », « VTC lyon », « taxi lyon nuit »… |
+| `ad-creative` | Rédiger les annonces, titres et descriptions Google Ads + textes des **flyers** et visuels. |
+| `seo-audit` | Audit SEO local pour remonter sur « taxi Lyon », « VTC Saint-Exupéry », « chauffeur privé Lyon ». |
+| `schema-markup` | Ajouter le balisage **LocalBusiness / TaxiService** (JSON-LD) sur `index.html` pour Google. |
+| `site-architecture` + `programmatic-seo` | Créer des **pages par zone/service** (taxi Villeurbanne, transfert gare Part-Dieu, navette aéroport…) pour capter le trafic local longue traîne. |
+| `aeo` | Optimiser pour les réponses IA / recherche vocale (« trouve-moi un taxi à Lyon »). |
+| `page-cro` + `form-cro` + `signup-flow-cro` | Optimiser le **taux de conversion du formulaire de réservation** (le seul canal de vente). |
+| `social-content` + `social-media-manager` | Contenus **Instagram / TikTok** (la vidéo promo, les photos de la flotte premium). |
+| `copywriting` + `marketing-psychology` | Affiner les textes premium du site, des SMS et des avis. |
+| `brand-guidelines` | Garder la cohérence visuelle noir & or sur tous les supports. |
+| `analytics-tracking` | Vérifier le suivi des **conversions Google Ads** (event `conversion` dans `merci.php` et au submit). |
+| `referral-program` | Mettre en place un parrainage client (course offerte) pour la croissance locale. |
+
+**Règle :** quand l'utilisateur parle de pub, référencement, réseaux sociaux, flyers ou croissance pour TDL, proposer le skill compagnon adapté plutôt que d'improviser.
